@@ -1,2 +1,2 @@
 # emlyon-dsaib
-Just a good ol' repository 
+Data Science and AI Booster
